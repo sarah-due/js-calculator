@@ -72,9 +72,13 @@ border-radius: 15px;
 height: auto;
 width: 20%;
 margin: 2px 2px;
+cursor: pointer;
 }
 
 .operator {
 background-color: #99a;
+}
 
+.button:hover {
+  background-color: #4155ff;
 }
